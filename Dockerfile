@@ -1,4 +1,4 @@
-FROM amsokol/oraclelinux-java8:latest
+FROM amsokol/centos-java8:latest
 MAINTAINER Alexander Sokolovsky <amsokol@gmail.com>
 
 # User root user to install software
